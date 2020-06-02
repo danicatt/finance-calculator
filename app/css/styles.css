@@ -1,0 +1,31 @@
+.imgContainer {
+    padding: 20px;
+    text-align: end;
+}
+.title {
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+
+.lead {
+    font-size: 16px;
+}
+
+.reqirementsList {
+    font-size: 15px;
+}
+
+.userInputs {
+    padding: 5px;
+    margin: 15px;
+}
+
+.btnContainer {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.output1 {
+    list-style-type: none;
+    border: 1px solid #000000;
+}
